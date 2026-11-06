@@ -2,7 +2,8 @@ name = "v20251104"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
-
+[vars]
+UUID = "9fb01feb-ab96-451d-a63d-0b1c157f0ade"
 #[[kv_namespaces]]
 #binding = "KV"			#KV绑定名默认不可修改
 #id = ""				#KV数据库id
